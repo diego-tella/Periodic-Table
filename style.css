@@ -1,0 +1,62 @@
+th{
+	font-weight: bold;
+	text-shadow: 0px 0px 1px;
+}
+
+.inv{
+visibility:collapse;
+}
+.Principal{
+border:1px ;
+
+}
+.num{
+	text-align:left;
+	margin: 0;
+	vertical-align:text-top;
+}
+
+.c1{
+	background-color: #FFFF00;
+	width: 5%;
+}
+.c2{
+	background-color: salmon;
+	width: 5%;
+}
+.c3{
+	background-color: #D8BFD8;
+	width: 5%;
+}
+.c4{
+	background-color: #FF69B4;
+	width: 5%;
+}
+.c5{
+	background-color: #00FA9A;
+	width: 5%;
+}
+.c6{
+	background-color: #ADFF2F;
+	width: 5%;
+}
+.c7{
+	background-color: #D3D3D3;
+	width: 5%;
+}
+.c8{
+	background-color: #FFA500;
+	width: 5%;
+}
+.c9{
+	background-color: #B0E0E6;
+	width: 5%;
+}
+.c10{
+	background-color: #87CEEB	;
+	width: 5%;
+}
+.c11{
+	background-color: #FFD700;
+	width: 5%;
+}
